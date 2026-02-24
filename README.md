@@ -7,8 +7,7 @@
 历时一个月快速迭代开发（3 年技术积累）
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)](https://ggclaw.dev)
-[![Downloads](https://img.shields.io/badge/downloads-100K+-green)](https://ggclaw.dev/download)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue)](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)
 
 [English](README_EN.md) · [简体中文](README.md)
 
@@ -19,6 +18,19 @@
 ## ✨ 简介
 
 ggclaw 是一款脱胎于 OpenClaw 的 AI 桌面助手，基于 Rust 技术构建，完美兼容 OpenClaw Skills 生态。历经一个月快速迭代开发（3 年技术积累），专为提升个人和团队工作效率而设计。可以在文案、图文、绘画、视频、提醒、物联网等多个场景下发挥作用。它不仅仅是一个 AI 聊天工具，更是一个**重新定义工作方式**的智能平台。
+
+### 跨境电商领域的应用案例
+
+在海南自贸港，ggclaw 正在重塑数万名跨境卖家的生存法则。通过自动化集群，企业可以优化约30%的初级岗位，每年节省的薪酬支出超过100万元。
+
+**核心突破**：
+- **全链路自动化能力**：独立站复刻、智能选品、竞品攻防
+- **生产力升维**：图像生成、文案优化、数据挖掘
+- **技术民主化**：三行命令完成部署，非技术人员可操作
+
+**工作机制**：意图理解（LLM）+ 屏幕感知（Computer Vision）+ 动作执行（PyAutoGUI/Keyboard Control）
+
+2026年的竞争，已演变为AI智能体应用深度的较量。
 
 ### 为什么选择 ggclaw？
 
@@ -191,11 +203,11 @@ npm run build:linux
 
 ## 📖 文档
 
-- **[项目介绍](PROJECT_INTRODUCTION.md)** - 详细的项目介绍，包含功能说明、技术架构、适用场景等
-- **[功能对比](DETAILED_FEATURE_COMPARISON.md)** - 旧版与 v2 版本的详细功能对比
-- **[官方文档](https://docs.ggclaw.dev)** - 完整的使用教程和 API 文档
-- **[开发者文档](https://docs.ggclaw.dev/developers)** - Skills 开发指南和 API 参考
-- **[Skills 市场](https://market.ggclaw.dev)** - 发现和下载优质 Skills
+- **[项目介绍](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)** - 详细的项目介绍，包含功能说明、技术架构、适用场景等
+- **[功能对比](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)** - 旧版与 v2 版本的详细功能对比
+- **[官方文档](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)** - 完整的使用教程和 API 文档
+- **[开发者文档](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)** - Skills 开发指南和 API 参考
+- **[Skills 市场](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)** - 发现和下载优质 Skills
 
 ---
 
@@ -251,16 +263,16 @@ npm run build:linux
 
 ### 官方渠道
 
-- **官方网站**：https://ggclaw.dev
-- **官方文档**：https://docs.ggclaw.dev
-- **GitHub 仓库**：https://github.com/your-org/ggclaw
-- **问题反馈**：https://github.com/your-org/ggclaw/issues
+- **官方网站**：https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2
+- **官方文档**：https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2
+- **GitHub 仓库**：https://github.com/tuptuptop/ggclaw
+- **问题反馈**：https://github.com/tuptuptop/ggclaw/issues
 
 ### 社区交流
 
 **🎉 欢迎各行业伙伴和用户入群！**
 
-- **官方论坛**：https://community.ggclaw.dev
+- **官方论坛**：https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2
 - **Discord 社区**：https://discord.gg/ggclaw
 - **Telegram 群组**：https://t.me/ggclaw_official
 - **微信群**：扫码加入
@@ -271,10 +283,10 @@ npm run build:linux
 
 **🎉 欢迎开发者开发发布 Skills！**
 
-- **开发者文档**：https://docs.ggclaw.dev/developers
-- **Skills 市场**：https://market.ggclaw.dev
+- **开发者文档**：https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2
+- **Skills 市场**：https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2
 - **开发者 Discord**：https://discord.gg/ggclaw-dev
-- **GitHub Discussions**：https://github.com/your-org/ggclaw/discussions
+- **GitHub Discussions**：https://github.com/tuptuptop/ggclaw/discussions
 
 ### 商务合作
 
@@ -301,7 +313,7 @@ npm run build:linux
 
 **立即体验，开启高效工作新纪元** 🚀
 
-[下载安装](https://ggclaw.dev/download) · [查看文档](https://docs.ggclaw.dev) · [加入社区](https://community.ggclaw.dev)
+[下载安装](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2) · [查看文档](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2) · [加入社区](https://mp.weixin.qq.com/s?__biz=Mzg2OTYwNzQyNA==&mid=2247500066&idx=1&sn=d2a7b0599840480f9fb724e1c5752c7d&chksm=cf6c5856a708f31fd6e2a099c42ee25a38324975f628d0dbe0994247c020fe29db788abff6b2)
 
 ---
 
