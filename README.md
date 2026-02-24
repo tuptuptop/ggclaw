@@ -263,7 +263,8 @@ npm run build:linux
 - **官方论坛**：https://community.ggclaw.dev
 - **Discord 社区**：https://discord.gg/ggclaw
 - **Telegram 群组**：https://t.me/ggclaw_official
-- **微信群**：扫码加入（见官网）
+- **微信群**：扫码加入
+  ![微信二维码](webwxgetmsgimg.jpeg)
 - **QQ 群**：123456789
 
 ### 开发者社区
